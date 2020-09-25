@@ -6,7 +6,9 @@ Implemented a master-work pattern to calculate the square root of the numbers.
 
                        PUSH      PULL      PUSH 
 |--------------------| ------> | Worker | -------> |-----------|
+
 | Generator (Master) | ------> | Worker | -------> | Dashboard |
+
 |--------------------| ------> | Worker | -------> |-----------|
 
 
