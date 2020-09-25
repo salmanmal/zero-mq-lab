@@ -1,1 +1,1 @@
-# zero-mq-lab
+# ZeroMQ Master-Work Pattern
