@@ -5,11 +5,8 @@ Implemented a master-work pattern to calculate the square root of the numbers.
 ## Components
 
                        PUSH      PULL      PUSH 
-                       
 |--------------------| ------> | Worker | -------> |-----------|
-
 | Generator (Master) | ------> | Worker | -------> | Dashboard |
-
 |--------------------| ------> | Worker | -------> |-----------|
 
 
