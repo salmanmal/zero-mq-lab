@@ -1,0 +1,6 @@
+Square root of 0 = 0.0
+Square root of 2 = 1.4142135623730951
+Square root of 4 = 2.0
+Square root of 6 = 2.449489742783178
+Square root of 8 = 2.8284271247461903
+connection busy retry
