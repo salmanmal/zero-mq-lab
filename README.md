@@ -10,6 +10,9 @@ Implemented a master-work pattern to calculate the square root of the numbers.
 |--------------------| ------> | Worker | -------> |-----------|
 
 
+```
+
+
 * Generator
 
 The generator component generates a list of numbers from 0 to 10,000 and sends (PUSH) those numbers to Worker.
