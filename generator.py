@@ -11,9 +11,9 @@ sock=context.socket(zmq.PUSH)
 sock.bind("tcp://127.0.0.1:3001")
 
 # Send a "message" using the socket
-for i in range(10):
+for i in range(10001):
     time.sleep(1)
-    print(i)
+    print("Added to que : {}".format(i))
     sock.send("{}".format(i).encode())
 
 sock.close()
